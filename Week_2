@@ -48,12 +48,6 @@ We explore word embeddings, sequence models, and sentiment classification.
 
 ---
 
-## File Description
-- `week2.ipynb`  
-  Contains all models, experiments, and visualizations for Week 2.
-
----
-
 ## Key Learnings
 - Difference between traditional ML and deep learning approaches for NLP
 - Importance of word embeddings
