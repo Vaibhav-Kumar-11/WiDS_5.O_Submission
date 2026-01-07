@@ -35,12 +35,6 @@ The focus is on understanding text data, preprocessing techniques, and basic NLP
 
 ---
 
-## File Description
-- `week1.ipynb`  
-  Contains all implementations and experiments for Week 1 NLP basics.
-
----
-
 ## Key Learnings
 - How raw text is converted into machine-readable format
 - Importance of preprocessing in NLP pipelines
