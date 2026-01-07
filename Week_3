@@ -52,14 +52,6 @@ The focus is on using pretrained models and libraries like Hugging Face Transfor
 
 ---
 
-## File Descriptions
-- `bert_text_classification.py` – Fine-tuning BERT
-- `train_sentencepiece.py` – Custom tokenizer training
-- `transformers_inference.py` – Inference pipeline
-- `text_summarizer.py` – Mini-project implementation
-
----
-
 ## Key Learnings
 - How transformers process text using self-attention
 - Practical usage of pretrained NLP models
