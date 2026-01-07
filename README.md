@@ -1,4 +1,4 @@
-# WiDS NLP Track — Google Colab Notebooks
+# WiDS 5.O
 
 This repository contains my submissions for the **WiDS (Women in Data Science) NLP Track**.  
 All implementations were done using **Google Colab** and are linked below for easy access and reproducibility.
