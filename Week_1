@@ -1,0 +1,53 @@
+# Week 1 — Basics of Natural Language Processing (NLP)
+
+## Overview
+This week introduces the fundamentals of Natural Language Processing (NLP).  
+The focus is on understanding text data, preprocessing techniques, and basic NLP concepts using Python.
+
+---
+
+## Concepts Covered
+- What is NLP?
+- Tokens, Types, and Corpora
+- Text preprocessing techniques:
+  - Tokenization
+  - Stopword removal
+  - Stemming and Lemmatization
+- N-grams
+- Introduction to NLP libraries
+
+---
+
+## Coding Tasks Implemented
+- Tokenization using NLTK
+- Stopword removal
+- Stemming and lemmatization
+- Simple text preprocessing pipeline
+- Hands-on practice with real text data
+
+---
+
+## Tools & Libraries Used
+- Python
+- NLTK
+- spaCy
+- Google Colab
+
+---
+
+## File Description
+- `week1.ipynb`  
+  Contains all implementations and experiments for Week 1 NLP basics.
+
+---
+
+## Key Learnings
+- How raw text is converted into machine-readable format
+- Importance of preprocessing in NLP pipelines
+- Practical usage of NLP libraries
+
+---
+
+## Reference
+Google Colab Notebook:  
+https://colab.research.google.com/drive/1NEfwJZqhX6gamu2tBLz2fln4lWkhK3OR
