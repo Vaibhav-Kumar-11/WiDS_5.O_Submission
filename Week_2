@@ -1,0 +1,66 @@
+# Week 2 — Deep Learning for NLP
+
+## Overview
+This week focuses on applying machine learning and deep learning techniques to NLP problems.  
+We explore word embeddings, sequence models, and sentiment classification.
+
+---
+
+## Concepts Covered
+- Word Embeddings:
+  - Word2Vec
+  - GloVe
+- Neural Networks for NLP:
+  - RNN
+  - GRU
+  - LSTM
+- Attention mechanism (introductory)
+- Bag-of-Words and TF-IDF
+- Evaluation metrics:
+  - Accuracy
+  - F1-score
+
+---
+
+## Coding Tasks Implemented
+- Training Word2Vec embeddings on a small corpus
+- Building a TF-IDF + Logistic Regression sentiment classifier
+- Implementing an LSTM-based sentiment classifier
+- Visualizing word embeddings using PCA / t-SNE
+- Exploring Hugging Face datasets
+
+---
+
+## Mini-Project
+**Performance Comparison:**
+- TF-IDF + Logistic Regression
+- LSTM-based Sentiment Classifier
+
+---
+
+## Tools & Libraries Used
+- Python
+- Scikit-learn
+- TensorFlow / Keras
+- Gensim
+- Matplotlib
+- Hugging Face Datasets
+
+---
+
+## File Description
+- `week2.ipynb`  
+  Contains all models, experiments, and visualizations for Week 2.
+
+---
+
+## Key Learnings
+- Difference between traditional ML and deep learning approaches for NLP
+- Importance of word embeddings
+- How sequence models handle textual data
+
+---
+
+## Reference
+Google Colab Notebook:  
+https://colab.research.google.com/drive/13Y0j-oAfrBueICQiE7D0-e0_vsdBH1WE
