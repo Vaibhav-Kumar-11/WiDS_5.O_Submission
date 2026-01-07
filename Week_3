@@ -1,0 +1,72 @@
+# Week 3 — Transformers and Modern NLP
+
+## Overview
+This week introduces transformer architectures and modern NLP workflows.  
+The focus is on using pretrained models and libraries like Hugging Face Transformers.
+
+---
+
+## Concepts Covered
+- Transformer architecture (Q, K, V, Self-Attention)
+- Difference between:
+  - BERT
+  - GPT
+  - Encoder-Decoder models
+- Tokenization techniques:
+  - WordPiece
+  - BPE
+  - SentencePiece
+
+---
+
+## Coding Tasks Implemented
+
+### 1. Fine-Tuning BERT for Text Classification
+- Loaded pretrained BERT model
+- Added classification head
+- Fine-tuned on IMDb sentiment dataset
+
+### 2. Custom SentencePiece Tokenizer
+- Trained a domain-specific tokenizer
+- Used BPE-based SentencePiece model
+
+### 3. Inference Using Transformers
+- Sentiment analysis using Hugging Face pipeline
+
+---
+
+## Mini-Project
+### Text Summarizer
+- Model: `facebook/bart-large-cnn`
+- Input: Long text/article
+- Output: Concise summary
+
+---
+
+## Tools & Libraries Used
+- Python
+- Hugging Face Transformers
+- Datasets
+- SentencePiece
+- PyTorch
+
+---
+
+## File Descriptions
+- `bert_text_classification.py` – Fine-tuning BERT
+- `train_sentencepiece.py` – Custom tokenizer training
+- `transformers_inference.py` – Inference pipeline
+- `text_summarizer.py` – Mini-project implementation
+
+---
+
+## Key Learnings
+- How transformers process text using self-attention
+- Practical usage of pretrained NLP models
+- Importance of tokenization in transformer models
+
+---
+
+## Reference
+Google Colab Notebook:  
+https://colab.research.google.com/drive/1NcYkVvMYsQSWojhaFYIYd2esfpF6oNnX
