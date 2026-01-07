@@ -1,6 +1,6 @@
 # WiDS 5.O
 
-This repository contains my submissions for the **WiDS (Women in Data Science) NLP Track**.  
+This repository contains my submissions for the **WiDS (Winter in Data Science) 5.O for tje project UID:40 i.e Speech to Tect Engine**.  
 All implementations were done using **Google Colab** and are linked below for easy access and reproducibility.
 
 ---
