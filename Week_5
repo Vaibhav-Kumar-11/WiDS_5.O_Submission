@@ -1,0 +1,52 @@
+# Week 5 — Speech-to-Text (STT) & Audio Intelligence
+
+## Overview
+This week marks the move into multimodal NLP, specifically focusing on Automatic Speech Recognition (ASR). We dive into how raw audio signals are transformed into text using state-of-the-art audio Transformers.
+
+---
+
+## Concepts Covered
+- Audio Fundamentals:
+  - Sampling rates (16kHz standard)
+  - Mel-Spectrograms and Feature Extraction
+- STT Architectures:
+  - Connectionist Temporal Classification (CTC)
+  - OpenAI Whisper (Encoder-Decoder)
+  - Wav2Vec 2.0 (Self-supervised learning)
+- Evaluation Metrics:
+  - Word Error Rate (WER)
+  - Character Error Rate (CER)
+
+---
+
+## Coding Tasks Implemented
+- Preprocessing raw audio using Librosa and Torchaudio
+- Fine-tuning a Whisper-Small model on Mozilla Common Voice
+- Implementing a CTC-based decoding pipeline for Wav2Vec 2.0
+- Evaluating performance using the Evaluate library
+- Building a real-time audio-to-text inference function
+
+---
+
+## Mini-Project
+**Multilingual Speech Recognition:**
+- Evaluating Whisper's performance on diverse accents
+- Baseline vs. Fine-tuned model WER comparison
+
+---
+
+## Tools & Libraries Used
+- Python
+- Librosa
+- Torchaudio
+- Hugging Face Transformers & Datasets
+- Evaluate (Hugging Face)
+
+---
+
+## Key Learnings
+- The importance of audio normalization and silence trimming
+- How Transformers process 2D spectral data as sequence inputs
+- Measuring transcription accuracy through deletions, insertions, and substitutions (WER)
+
+---
