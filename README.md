@@ -15,9 +15,6 @@ All implementations were done using **Google Colab** and are linked below for ea
 - N-grams
 - Basic text preprocessing
 
-🔗 **Google Colab Notebook**  
-https://colab.research.google.com/drive/1NEfwJZqhX6gamu2tBLz2fln4lWkhK3OR
-
 ---
 
 ## 📅 Week 2 — Deep Learning for NLP
@@ -28,9 +25,6 @@ https://colab.research.google.com/drive/1NEfwJZqhX6gamu2tBLz2fln4lWkhK3OR
 - LSTM-based sentiment classifier
 - Embedding visualization (PCA / t-SNE)
 - Performance comparison of models
-
-🔗 **Google Colab Notebook**  
-https://colab.research.google.com/drive/13Y0j-oAfrBueICQiE7D0-e0_vsdBH1WE
 
 ---
 
@@ -44,13 +38,37 @@ https://colab.research.google.com/drive/13Y0j-oAfrBueICQiE7D0-e0_vsdBH1WE
 - Hugging Face pipelines
 - Text summarization using BART
 
-🔗 **Google Colab Notebook**  
-https://colab.research.google.com/drive/1NcYkVvMYsQSWojhaFYIYd2esfpF6oNnX
+---
+
+## 📅 Week 4 — Introduction to Speech Processing
+
+### Topics Covered
+- Speech signals and digital audio representation  
+- Sampling, quantization, and framing  
+- Time–frequency analysis using spectrograms  
+- Mel scale and Mel Spectrograms  
+- MFCC feature extraction  
+- Classical vs neural speech recognition systems  
+- Audio preprocessing pipeline  
+- Keyword spotting basics
+
+---
+
+## 📅 Week 5 — Speech-to-Text Model
+
+### Topics Covered
+- Overview of Speech-to-Text (STT) systems  
+- End-to-end STT pipelines  
+- Pretrained speech models  
+- Whisper and Wav2Vec 2.0 architectures  
+- Speech dataset preparation  
+- Fine-tuning a pretrained STT model  
+- Evaluation using Word Error Rate (WER)
+
 
 ---
 
 ## ✅ Notes
-- All notebooks are executable on Google Colab
-- Implementations are beginner-friendly and follow WiDS weekly guidelines
-- Models and datasets are kept lightweight for easy execution
-
+- All notebooks are executable on Google Colab  
+- Implementations are beginner-friendly and follow WiDS weekly guidelines  
+- Models and datasets are kept lightweight for easy execution  
