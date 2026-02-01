@@ -54,7 +54,7 @@ All implementations were done using **Google Colab** and are linked below for ea
 
 ---
 
-## 📅 Week 5 — Speech-to-Text Model
+## 📅 Week 5 & 6 — Speech-to-Text Model
 
 ### Topics Covered
 - Overview of Speech-to-Text (STT) systems  
