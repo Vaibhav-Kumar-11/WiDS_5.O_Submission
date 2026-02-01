@@ -1,0 +1,57 @@
+# Week 4 — Advanced Transformer Optimization & LLMs
+
+## Overview
+This week explores the transition from standard Transformers to Large Language Models (LLMs). The focus is on scaling laws, computational efficiency, and advanced fine-tuning techniques required for deploying high-performance models.
+
+---
+
+## Concepts Covered
+- Large Language Models (LLMs):
+  - Scaling laws and emergent abilities
+  - In-context learning
+- Model Compression & Efficiency:
+  - Knowledge Distillation (Teacher-Student)
+  - Quantization (Weight precision reduction)
+  - Pruning and Sparsity
+- Prompt Engineering:
+  - Zero-shot and Few-shot learning
+  - Chain-of-Thought prompting
+
+---
+
+## Coding Tasks Implemented
+- Benchmarking DistilBERT vs BERT-Base
+- Implementing a Knowledge Distillation pipeline for text classification
+- Experimenting with post-training quantization (INT8)
+- Designing complex prompts for logic-based reasoning tasks
+- Comparative analysis of inference latency
+
+---
+
+## Mini-Project
+**Efficiency vs. Performance Analysis:**
+- Quantized Model Benchmarking
+- Distillation vs. Standard Fine-tuning performance gap
+
+---
+
+## Tools & Libraries Used
+- Python
+- Hugging Face Transformers
+- PyTorch
+- ONNX Runtime
+- Weights & Biases
+
+---
+
+## Key Learnings
+- Understanding the trade-offs between model size and inference speed
+- How to preserve model intelligence while significantly reducing parameter count
+- The critical role of high-quality prompts in guiding LLM output
+
+---
+
+## Reference
+Google Colab Notebook:
+https://colab.research.google.com/drive/1Ym4vZnNlVs2mv9u9eVh5WbY2M0FxrE91?usp=sharing
+
